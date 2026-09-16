@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：记录关联
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 038 篇 - 百家乐Ai预测分析工具：用状态转换表减少结果标签歧义](https://github.com/TGmszrcsz/baccarat-ai-038) ｜ [下一篇：第 040 篇 - 百家乐Ai预测分析工具：为异常样本建立可回溯处理清单](https://github.com/TGmszrcsz/baccarat-ai-040)
+
+<!-- article-chain:end -->
+
 同一条事件在两张报表里分属不同日期。本篇围绕“跨日与时区转换中的局号核对”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、为什么值得单独检查
